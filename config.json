@@ -1,0 +1,21 @@
+{
+    "enabled": true,
+    "respectFeatureToggle": true,
+    "density": 1.0,
+    "size": 1.0,
+    "brightness": 1.0,
+    "lifetimeSeconds": 30.0,
+    "spreadSpeed": 1.0,
+    "blastStrength": 1.0,
+    "trenchJets": true,
+    "groundCloud": true,
+    "referenceThrustKN": 2500.0,
+    "maxHeight": 90.0,
+    "padRadius": 160.0,
+    "minPressureAtm": 0.1,
+    "allowAnyGround": false,
+    "maxParticles": 6000,
+    "useTrenchLights": true,
+    "manualOutlets": [],
+    "debugLog": false
+}

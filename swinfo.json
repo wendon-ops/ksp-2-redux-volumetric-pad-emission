@@ -1,0 +1,16 @@
+{
+  "spec": "2.0",
+  "mod_id": "VolumetricPadSteam",
+  "name": "Volumetric Pad Steam",
+  "author": "ksp2 redux Volumetric Ground FX project",
+  "description": "Billowing launch-pad steam from the flame trench and a ground cloud under the engines, driven by engine thrust. Inspired by the KSP1 mod Volumetric Ground FX.",
+  "source": "",
+  "version": "0.1.3",
+  "version_check": "",
+  "ksp2_version": { "min": "*", "max": "*" },
+  "dependencies": [
+    { "id": "SpaceWarp2", "version": { "min": "2.0.0", "max": "*" } }
+  ],
+  "conflicts": [],
+  "main_assembly": "VolumetricPadSteam.dll"
+}
